@@ -1,0 +1,24 @@
+Package:
+    composr
+Type:
+    Package
+Title:
+    Compositional Data Operators and Functions
+Version:
+    0.1.0
+Authors@R:
+    person("Em",
+           "Rushworth",
+           email = "rushworthmj@gmail.com",
+           role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License:
+    MIT
+Encoding:
+    UTF-8
+LazyData:
+    true
+Imports:
+    tidyverse,
+    here
