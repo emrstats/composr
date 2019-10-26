@@ -14,7 +14,6 @@
 \item{\code{sand}}{percentile of sand}
 \item{\code{silt}}{percentile of silt}
 \item{\code{clay}}{percentile of clay}
-\item
 }}
 \usage{
 sediment
