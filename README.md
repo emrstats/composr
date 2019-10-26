@@ -1,6 +1,6 @@
 # composr: A package for working with compositional data
 
-A WIP to develop a package covering the range of compositional data needs, building from the original paper by Aitchison  as there are some packages that already exist for compositional data, but there are none that work within the `tidyverse` and all work with frequentist assumptions. This is an attempt to correct both of these lacks.
+A WIP to develop a package covering the range of compositional data needs, building from the original paper by Aitchison. Will initially be to simply learn how to build an R package and work through his original work, but will extend to include later transformations, and exploration of other approaches to compositional data analysis outside of the log-ratio approach. There are some packages that already exist for compositional data, but there are none that work within the `tidyverse` and all work with frequentist assumptions and even some of the latest work like `propr` doesn't use isometric log-ratio.
 
 
 ### References
